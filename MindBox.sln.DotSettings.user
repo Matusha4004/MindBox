@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f457cef8_002D1ff2_002D4fea_002D9a94_002D3d487d5fc932/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SuccessMath" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8B53DD19-9921-42BB-9B64-CD071A6EC681::net8.0::TestForMindBox.AreaMath_ShouldReturnNormalResult.SuccessTriangleMath&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8B53DD19-9921-42BB-9B64-CD071A6EC681::net8.0::TestForMindBox.AreaMath_ShouldReturnNormalResult.SuccessCirlceMath&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8B53DD19-9921-42BB-9B64-CD071A6EC681::net8.0::TestForMindBox.AreaMath_ShouldReturnNormalResult.FailedCirlceMath&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8B53DD19-9921-42BB-9B64-CD071A6EC681::net8.0::TestForMindBox.AreaMath_ShouldReturnNormalResult.FailTriangleMath&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

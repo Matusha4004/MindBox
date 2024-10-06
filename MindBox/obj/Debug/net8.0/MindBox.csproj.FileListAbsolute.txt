@@ -1,0 +1,14 @@
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\bin\Debug\net8.0\MindBox.deps.json
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\bin\Debug\net8.0\MindBox.runtimeconfig.json
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\bin\Debug\net8.0\MindBox.dll
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\bin\Debug\net8.0\MindBox.pdb
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.csproj.AssemblyReference.cache
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.AssemblyInfoInputs.cache
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.AssemblyInfo.cs
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.csproj.CoreCompileInputs.cache
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.dll
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\refint\MindBox.dll
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.pdb
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\MindBox.genruntimeconfig.cache
+C:\Users\Matusha\RiderProjects\MindBox\MindBox\obj\Debug\net8.0\ref\MindBox.dll
